@@ -25,3 +25,29 @@ The site is currently hosted on GitHub Pages for demo purposes. In the near futu
 1. Clone the repository:
    ```sh
    git clone https://github.com/meharvir/Forever-Lost-Website.git
+2. Clone the repository:
+   ```sh
+   cd Forever-Lost-Website
+3. Install the required dependencies. If you're using npm, run:
+   ```sh
+   npm install
+   ```
+   Alternatively, if you're using yarn, run:
+   ```sh
+   yarn install
+4. Start the development server. For npm, use:
+   ```sh
+   npm start
+   ```
+   Alternatively, if you're using yarn, run:
+   ```sh
+   yarn start
+5. Open your web browser and go to:
+    ```sh
+    http://localhost:3000
+     ```
+    This will open the website on your local machine.
+
+
+   
+ 
