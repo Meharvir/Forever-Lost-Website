@@ -1,5 +1,8 @@
-#Forever Lost Clothing Brand Website
+Forever Lost Clothing Brand Website
 
-Link:
+Link:https://meharvir.github.io/Forever-Lost-Website/
 
-This is just a demo of the site
+This is a simple demo of the site 
+
+I will eventually host this site with a proper domain for business purposes in the near future. 
+
