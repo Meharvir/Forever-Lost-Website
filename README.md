@@ -47,6 +47,10 @@ The site is currently hosted on GitHub Pages for demo purposes. In the near futu
     http://localhost:3000
      ```
     This will open the website on your local machine.
+   
+## Contact
+For any inquiries, please contact at meharvir.randhawa@outlook.com
+
 
 
    
