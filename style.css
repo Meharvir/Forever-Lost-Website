@@ -1,5 +1,5 @@
 .hero {
-  background-image: url('/images/Background.jpg');
+  background-image: url('images/Background.jpg');
   background-size: cover;
   background-position: center;
   color: rgb(235, 242, 243);
