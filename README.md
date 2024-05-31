@@ -7,7 +7,7 @@ You can view a live demo of the site here: [**Forever Lost Demo**](https://mehar
 This repository contains the source code for the **Forever Lost** clothing brand website. It is a simple yet elegant website designed to showcase our clothing line.
 
 ## Future Plans
-The site is currently hosted on GitHub Pages for demo purposes. In the near future, it will be hosted on a proper domain for business purposes. Stay tuned for updates!
+The site is currently a work in progress and is hosted on GitHub Pages for demo purposes. In the near future, it will be hosted on a proper domain for business purposes. Stay tuned for updates!
 
 ## Features
 - **Responsive Design:** The website is fully responsive and works on all devices.
