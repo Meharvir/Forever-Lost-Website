@@ -1,26 +1,28 @@
-.hero {
-  background-image: url('images/Background.jpg');
-  background-size: cover;
-  background-position: center;
-  color: rgb(235, 242, 243);
-  text-align: center;
-  padding: 100px 0;
-  font-family: "Arial", sans-serif;
-}
 
-.hero-text-box {
-  background-color: rgba(0, 0, 0, 0.8); /* Semi-transparent background */
-  display: inline-block; /* Adjusts the size to the content */
-  padding: 20px; /* Adds some padding inside the box */
-  border-radius: 10px; /* Optional: rounds the corners of the box */
-}
+      .hero {
+        background-image: url('https://cdn.pixabay.com/photo/2016/11/29/03/35/dark-1867089_1280.jpg');
+        background-size: cover;
+        background-position: center;
+        color: rgb(235, 242, 243);
+        text-align: center;
+        padding: 100px 0;
+        font-family: "Arial", sans-serif;
+      }
 
-.product-card img {
-  width: 100%;
-}
+      .hero-text-box {
+        background-color: rgba(0, 0, 0, 0.8); /* Semi-transparent background */
+        display: inline-block; /* Adjusts the size to the content */
+        padding: 20px; /* Adds some padding inside the box */
+        border-radius: 10px; /* Optional: rounds the corners of the box */
+      }
 
-.footer {
-  background: #333;
-  color: white;
-  padding: 20px 0;
-}
+      .product-card img {
+        width: 100%;
+      }
+
+      .footer {
+        background: #333;
+        color: white;
+        padding: 20px 0;
+      }
+    
